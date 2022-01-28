@@ -1,0 +1,16 @@
+
+
+What do you mean by Amazon Lex?
+Amazon Lex is an amazon service for building conversational interface/chatbots to any application using voice or text.
+
+What is the purpose of Amazon Lex?
+To build,test,deploy conversational bots/chatbots either voice or text.
+
+What is the foundation of Alexa? 
+Amazon Lex power the Alexa Virtual Assistant
+
+What are the advantages of Amazon Lex?
+Easily publish the chatbot on apllications, Scales automatically, Cost effective & easy to use
+
+What is Amazon Lex's full name?
+Amazon Lex is an AWS service for building conversational interfaces for applications using voice and text.
